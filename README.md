@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior student at Trinity University majoring in Computer Science with minors in Mathematics and Data Science.<br>
+Senior student at Trinity University majoring in Computer Science with minors in Mathematics and Data Science.<br>
 
 
 ## 🌐 Socials:
